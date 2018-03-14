@@ -1,13 +1,13 @@
-#Dynamics for Finance and Operations 365
+# Dynamics for Finance and Operations 365
 AKA: DFO365, D365, DFO, Dynamics, AX7
 
 The purpose of this project is to create easy to understand documentation for developers, system administratos and IT personel working with DFO365.
 
-##Contents
+## Contents
 
 As pages become available, we'll provide links to them here...
 
-##Third Party Resources
+## Third Party Resources
 
 This section details other places on the web to go for help if you can't find what you're after here.
 
@@ -20,7 +20,7 @@ This section details other places on the web to go for help if you can't find wh
 - DFO365 on StackOverflow: https://stackoverflow.com/questions/tagged/dynamics-365-operations 
 - AX User Group: https://www.axug.com/engage/dynamics365 
 
-##Additional Notes
+## Additional Notes
 
 NB: The focus of this documentation is on the SaaS cloud deployment of DFO365 EE, using VSTS for source control.
 Information about other deployments / architectures can be included, but it should be made clear where the above assumptions are deviated from.
